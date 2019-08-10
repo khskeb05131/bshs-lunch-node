@@ -1,0 +1,93 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "k-lunch",
+        "scope": null,
+        "escapedName": "k-lunch",
+        "name": "k-lunch",
+        "rawSpec": "",
+        "spec": "latest",
+        "type": "tag"
+      },
+      "/home/ec2-user/node_modules"
+    ]
+  ],
+  "_from": "k-lunch@latest",
+  "_hasShrinkwrap": false,
+  "_id": "k-lunch@1.1.1",
+  "_inCache": true,
+  "_location": "/k-lunch",
+  "_nodeVersion": "9.5.0",
+  "_npmOperationalInternal": {
+    "host": "s3://npm-registry-packages",
+    "tmp": "tmp/k-lunch_1.1.1_1541507966320_0.012760855388441295"
+  },
+  "_npmUser": {
+    "name": "saxman6989",
+    "email": "ohmyshoulder987@gmail.com"
+  },
+  "_npmVersion": "6.0.1",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "k-lunch",
+    "scope": null,
+    "escapedName": "k-lunch",
+    "name": "k-lunch",
+    "rawSpec": "",
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/k-lunch/-/k-lunch-1.1.1.tgz",
+  "_shasum": "63b664a6e2b7b8641098d7cb646e47afcb4e373e",
+  "_shrinkwrap": null,
+  "_spec": "k-lunch",
+  "_where": "/home/ec2-user/node_modules",
+  "author": {
+    "name": "saxman6989"
+  },
+  "bugs": {
+    "url": "https://github.com/saxman6989/k-lunch/issues"
+  },
+  "dependencies": {
+    "cheerio": "^0.20.0",
+    "request": "^2.88.0"
+  },
+  "description": "Korean school lunch service module for Node.js",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "integrity": "sha512-nPZNUKv1ntGFFPJKF9/xI3SF5L9yagZLeCZOPRjoUx60LXKUqQggXsqSJmKwH5hR8DpkPgI2+o03PKUx0EN5mg==",
+    "shasum": "63b664a6e2b7b8641098d7cb646e47afcb4e373e",
+    "tarball": "https://registry.npmjs.org/k-lunch/-/k-lunch-1.1.1.tgz",
+    "fileCount": 8,
+    "unpackedSize": 445843,
+    "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.4\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJb4Yt+CRA9TVsSAnZWagAAdNkP/09NFahOnb3jau1B/DkL\nHrU/e7eG3P9z34YT6j8wzczDCQs0V2dWolJyxY6dr8SfJD46Ayqagfe6oXsh\nSmQEiooAg548+5zjLjeqWAwCi0tvJQI18dHV2Xtq/LkFTMzGBt2+262nFxJH\njo+LEmWe3Se0GV0bcHRPMobdzo75wQxt49NF5iIewn/TUZ702aSr8eUVbWW0\npLCzhWGLDnYCyv7Uju7/smES3Se/xeVMTEZbWjMNYyRxzqkFk6mJQx3oFnNx\nBHDLw8JE0Rh1760VuEiNWHNYX/dJaiNMDAwfEvy+1hhRjeFDRHza3PRngxrL\no+/DTZTLaLr+8rap+ZaSyhrW+USEe2WSy/FBRmwpn2/6I4CCjzktQgXtsrht\nnRUvDT+Pr9KyM+wHKmfcUfZ2fFRC6sef3gi4y+B4SV2bak9gJ3gBnkBHAae3\nW4/owsIsld9+C3IWMp1mYRx6OWFm/HjtLpCAELaDwsDgHkHwrETEZVgbH+Lt\nAyc5Sx3BeB234zzNrHOfQd2uLi4oVPa4wc40Nhy5o5QW/YCno/h6UqFY9glD\n68FrJXmnB/fR46wWDuYTFXnATiEULlv8DmauYisv5bKk8dDINwUjZepy5Y2K\nJbUrvvSvnjrJAIY8M2ba5oFi2IT7uZF5gDueyJcK5GIr86NFEhpOwjabhvew\nO/cL\r\n=PQ5P\r\n-----END PGP SIGNATURE-----\r\n"
+  },
+  "gitHead": "7fd6f092c4029333cab0bb07072485163ca115ef",
+  "homepage": "https://github.com/saxman6989/k-lunch#readme",
+  "license": "MIT",
+  "main": "index.js",
+  "maintainers": [
+    {
+      "name": "saxman6989",
+      "email": "ohmyshoulder987@gmail.com"
+    }
+  ],
+  "name": "k-lunch",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saxman6989/k-lunch.git"
+  },
+  "scripts": {
+    "test": "node test.js",
+    "write": "node write.js",
+    "express": "node express.js"
+  },
+  "version": "1.1.1"
+}

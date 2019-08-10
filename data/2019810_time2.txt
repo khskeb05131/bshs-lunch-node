@@ -1,0 +1,1 @@
+[{"menu":"등록된 급식정보가 없습니다.","allergyInfo":"allerg"}]
