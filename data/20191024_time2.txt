@@ -1,0 +1,1 @@
+[{"menu":"보리밥","allergyInfo":""},{"menu":"청국장찌개(고)","allergyInfo":""},{"menu":"오리훈제/머스터드소스(고)","allergyInfo":""},{"menu":"오절판(무쌈)(초)","allergyInfo":""},{"menu":"진미채도라지무침(초)","allergyInfo":""},{"menu":"배추김치","allergyInfo":""}]

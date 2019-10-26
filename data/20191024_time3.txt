@@ -1,0 +1,1 @@
+[{"menu":"토마토스파게티(고)","allergyInfo":""},{"menu":"오곡치킨너겟(고)","allergyInfo":""},{"menu":"동글수제피자","allergyInfo":""},{"menu":"오이피클","allergyInfo":""},{"menu":"감자게살샐러드(고)","allergyInfo":""}]

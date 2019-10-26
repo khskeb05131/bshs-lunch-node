@@ -3,7 +3,7 @@ const request = require('request')
 const codefinder = require('./lib/codefinder')
 const requestForm = require('./lib/request-data')
 
-var nothing = '[{\"menu\":\"등록된 급식정보가 없습니다.\",\"allergyInfo\":\"allerg\"}]';
+var nothing = 'nothing';
 
 var opening = '{\"searchresult\":{\"list_total_count\":3000,\"RESULT\":\"success\",\"row\":';
 var closing = '}}';

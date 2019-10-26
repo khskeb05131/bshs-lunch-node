@@ -1,0 +1,1 @@
+[{"menu":"참치주먹밥(고)","allergyInfo":""},{"menu":"감자계란국","allergyInfo":""},{"menu":"크로크무슈(몬테크리스토)","allergyInfo":""},{"menu":"사과쥬스(빅썬)","allergyInfo":""},{"menu":"배추김치","allergyInfo":""},{"menu":"메추리알장조림(초)","allergyInfo":""}]
