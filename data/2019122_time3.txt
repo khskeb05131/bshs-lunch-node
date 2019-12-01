@@ -1,0 +1,1 @@
+[{"menu":"녹두밥","allergyInfo":""},{"menu":"닭개장","allergyInfo":""},{"menu":"순대두루치기#","allergyInfo":""},{"menu":"청경채나물","allergyInfo":""},{"menu":"감자춘장조림#","allergyInfo":""},{"menu":"배추김치","allergyInfo":""}]

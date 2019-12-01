@@ -1,4 +1,3 @@
-
 const klunch = require('./index')
 var moment = require('moment');
 require('moment-timezone');
@@ -111,8 +110,14 @@ app.get('/nut3tom', function (req, res) {
 
   res.send(tomnut3);
 });
+//dev
+app.get('/dev', function (req, res) {
+  try { var devmsg = filename; } catch (err) { var devmsg = topening + nothing + closing + filename; }
 
-const sch = schedule.scheduleJob('5 1 * * *',function(){
+  res.send("현재 서버시간은 " + moment().format('YYYY-MM-DD HH:mm:ss'));
+});
+
+const sch = schedule.scheduleJob('2 0 * * *',function(){
  process.exit()
 });
 

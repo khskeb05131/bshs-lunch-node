@@ -5,6 +5,7 @@ require('moment-timezone');
 require('date-utils')
 var fs = require('fs');
 moment.tz.setDefault("Asia/Seoul");
+var path = require('path');
 
 var today = new Date();
 var tyear = today.getFullYear();
@@ -18,7 +19,11 @@ var tommonth = tom.getMonth() + 1;
 var tomfilename = moment().add(1, "days").format("YYYYMD")
 var tomdate = moment().add(1, "days").format("D")
 var filename = tyear + "" + tmonth + "" + tdate;
-console.log("k-lunch 급식 정보 인입 프로그램");
+console.log("k-lunch 급식 정보  인입 프로그램");
+console.log("=========================================================");
+console.log( "절대경로 상태 " + path.join( __dirname, './' ) );
+console.log( "상대경로 상태 " + process.cwd() );
+var pathdata = path.join( __dirname, './' );
 console.log("=========================================================");
 console.log("아래 date값을 현재 날짜와 확인해 주십시오.");
 console.log();
@@ -90,27 +95,27 @@ var tasks = [
     klunch.getLunch(form1, (err, output) => {
       if (err) throw err
       if (output == nothing) {} else {
-        fs.writeFileSync("./data/" + filename + "_" + "time1" + ".txt", JSON.stringify(output));
+        fs.writeFileSync(pathdata + "./data/" + filename + "_" + "time1" + ".txt", JSON.stringify(output));
       }
-      callback(null, 'time1인입');
+      callback(null, 'time1 인입');
     }, options)
   },
   function(callback) {
     klunch.getLunch(form2, (err, output) => {
       if (err) throw err
       if (output == nothing) {} else {
-        fs.writeFileSync("./data/" + filename + "_" + "time2" + ".txt", JSON.stringify(output));
+        fs.writeFileSync(pathdata + "./data/" + filename + "_" + "time2" + ".txt", JSON.stringify(output));
       }
-      callback(null, 'time2인입');
+      callback(null, 'time2 인입');
     }, options)
   },
   function(callback) {
     klunch.getLunch(form3, (err, output) => {
       if (err) throw err
       if (output == nothing) {} else {
-        fs.writeFileSync("./data/" + filename + "_" + "time3" + ".txt", JSON.stringify(output));
+        fs.writeFileSync(pathdata + "./data/" + filename + "_" + "time3" + ".txt", JSON.stringify(output));
       }
-      callback(null, 'time3인입');
+      callback(null, 'time3 인입');
     }, options)
   },
 
@@ -119,27 +124,27 @@ var tasks = [
     klunch.getNutrients(form1, (err, output) => {
       if (err) throw err
       if (output == nothing) {} else {
-        fs.writeFileSync("./data/" + filename + "_" + "nut1" + ".txt", JSON.stringify(output));
+        fs.writeFileSync(pathdata + "./data/" + filename + "_" + "nut1" + ".txt", JSON.stringify(output));
       }
-      callback(null, 'nut1인입');
+      callback(null, 'nut1 인입');
     }, options)
   },
   function(callback) {
     klunch.getNutrients(form2, (err, output) => {
       if (err) throw err
       if (output == nothing) {} else {
-        fs.writeFileSync("./data/" + filename + "_" + "nut2" + ".txt", JSON.stringify(output));
+        fs.writeFileSync(pathdata + "./data/" + filename + "_" + "nut2" + ".txt", JSON.stringify(output));
       }
-      callback(null, 'nut2인입');
+      callback(null, 'nut2 인입');
     }, options)
   },
   function(callback) {
     klunch.getNutrients(form3, (err, output) => {
       if (err) throw err
       if (output == nothing) {} else {
-        fs.writeFileSync("./data/" + filename + "_" + "nut3" + ".txt", JSON.stringify(output));
+        fs.writeFileSync(pathdata + "./data/" + filename + "_" + "nut3" + ".txt", JSON.stringify(output));
       }
-      callback(null, 'nut3인입');
+      callback(null, 'nut3 인입');
     }, options)
   },
 
@@ -148,27 +153,27 @@ var tasks = [
     klunch.getLunch(form1tom, (err, output) => {
       if (err) throw err
       if (output == nothing) {} else {
-        fs.writeFileSync("./data/" + tomfilename + "_" + "time1" + ".txt", JSON.stringify(output));
+        fs.writeFileSync(pathdata + "./data/" + tomfilename + "_" + "time1" + ".txt", JSON.stringify(output));
       }
-      callback(null, 'time1tom인입');
+      callback(null, 'time1tom 인입');
     }, options)
   },
   function(callback) {
     klunch.getLunch(form2tom, (err, output) => {
       if (err) throw err
       if (output == nothing) {} else {
-        fs.writeFileSync("./data/" + tomfilename + "_" + "time2" + ".txt", JSON.stringify(output));
+        fs.writeFileSync(pathdata + "./data/" + tomfilename + "_" + "time2" + ".txt", JSON.stringify(output));
       }
-      callback(null, 'time2tom인입');
+      callback(null, 'time2tom 인입');
     }, options)
   },
   function(callback) {
     klunch.getLunch(form3tom, (err, output) => {
       if (err) throw err
       if (output == nothing) {} else {
-        fs.writeFileSync("./data/" + tomfilename + "_" + "time3" + ".txt", JSON.stringify(output));
+        fs.writeFileSync(pathdata + "./data/" + tomfilename + "_" + "time3" + ".txt", JSON.stringify(output));
       }
-      callback(null, 'time3tom인입');
+      callback(null, 'time3tom 인입');
     }, options)
   },
 
@@ -177,27 +182,27 @@ var tasks = [
     klunch.getNutrients(form1tom, (err, output) => {
       if (err) throw err
       if (output == nothing) {} else {
-        fs.writeFileSync("./data/" + tomfilename + "_" + "nut1" + ".txt", JSON.stringify(output));
+        fs.writeFileSync(pathdata + "./data/" + tomfilename + "_" + "nut1" + ".txt", JSON.stringify(output));
       }
-      callback(null, 'nut1tom인입');
+      callback(null, 'nut1tom 인입');
     }, options)
   },
   function(callback) {
     klunch.getNutrients(form2tom, (err, output) => {
       if (err) throw err
       if (output == nothing) {} else {
-        fs.writeFileSync("./data/" + tomfilename + "_" + "nut2" + ".txt", JSON.stringify(output));
+        fs.writeFileSync(pathdata + "./data/" + tomfilename + "_" + "nut2" + ".txt", JSON.stringify(output));
       }
-      callback(null, 'nut2tom인입');
+      callback(null, 'nut2tom 인입');
     }, options)
   },
   function(callback) {
     klunch.getNutrients(form3tom, (err, output) => {
       if (err) throw err
       if (output == nothing) {} else {
-        fs.writeFileSync("./data/" + tomfilename + "_" + "nut3" + ".txt", JSON.stringify(output));
+        fs.writeFileSync(pathdata + "./data/" + tomfilename + "_" + "nut3" + ".txt", JSON.stringify(output));
       }
-      callback(null, 'nut3tom인입');
+      callback(null, 'nut3tom 인입');
     }, options)
   }
 ];

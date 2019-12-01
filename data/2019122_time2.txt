@@ -1,0 +1,1 @@
+[{"menu":"통밀밥","allergyInfo":""},{"menu":"닭볶음탕","allergyInfo":""},{"menu":"얼갈이콩나물무침#","allergyInfo":""},{"menu":"감자고로케#","allergyInfo":""},{"menu":"배추김치","allergyInfo":""},{"menu":"황태미역국#","allergyInfo":""}]
