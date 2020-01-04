@@ -1,0 +1,1 @@
+[{"menu":"지코바치밥#","allergyInfo":""},{"menu":"미소장국","allergyInfo":""},{"menu":"미역초무침","allergyInfo":""},{"menu":"감자범벅","allergyInfo":""},{"menu":"요구르트","allergyInfo":""},{"menu":"배추김치","allergyInfo":""}]

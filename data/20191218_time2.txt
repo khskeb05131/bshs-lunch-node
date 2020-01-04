@@ -1,0 +1,1 @@
+[{"menu":"돼지국밥(수육포함)(고)","allergyInfo":""},{"menu":"발아현미밥(고)","allergyInfo":""},{"menu":"누드순대+쌈장","allergyInfo":""},{"menu":"생고추양파(고)","allergyInfo":""},{"menu":"깻잎연근가마보꼬전#","allergyInfo":""},{"menu":"부추겉절이","allergyInfo":""},{"menu":"깍두기","allergyInfo":""}]

@@ -1,0 +1,1 @@
+[{"menu":"오리훈제김치볶음밥(고)","allergyInfo":""},{"menu":"브로콜리스프(고)","allergyInfo":""},{"menu":"오븐통그릴소시지(고)","allergyInfo":""},{"menu":"배추김치","allergyInfo":""},{"menu":"비피더스화이트","allergyInfo":""}]

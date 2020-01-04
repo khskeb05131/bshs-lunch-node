@@ -1,0 +1,1 @@
+[{"menu":"혼합곡밥","allergyInfo":""},{"menu":"애호박된장찌개","allergyInfo":""},{"menu":"닭감자고구마볶음(고)","allergyInfo":""},{"menu":"단배추나물무침","allergyInfo":""},{"menu":"배추김치","allergyInfo":""},{"menu":"부추잡채띠바오#","allergyInfo":""},{"menu":"포테이토링고로케#","allergyInfo":""}]

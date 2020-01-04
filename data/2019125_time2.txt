@@ -1,0 +1,1 @@
+[{"menu":"발아현미밥(고)","allergyInfo":""},{"menu":"등뼈감자탕","allergyInfo":""},{"menu":"꽁치고추장양념구이#","allergyInfo":""},{"menu":"올방개묵무침#","allergyInfo":""},{"menu":"순대만두떡강정#","allergyInfo":""},{"menu":"배추김치","allergyInfo":""}]

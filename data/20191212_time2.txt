@@ -1,0 +1,1 @@
+[{"menu":"삼색쌀밥#","allergyInfo":""},{"menu":"양송이스프(고)","allergyInfo":""},{"menu":"수제돈까스/과일소스#","allergyInfo":""},{"menu":"콩나물쫄면야채무침","allergyInfo":""},{"menu":"코울슬로우샐러드#","allergyInfo":""},{"menu":"깍두기","allergyInfo":""}]

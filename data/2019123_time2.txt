@@ -1,0 +1,1 @@
+[{"menu":"삼색쌀밥#","allergyInfo":""},{"menu":"연두부된장국","allergyInfo":""},{"menu":"대구동인동찜갈비#","allergyInfo":""},{"menu":"야채스틱/쌈장#","allergyInfo":""},{"menu":"부들어묵조림#","allergyInfo":""},{"menu":"배추김치","allergyInfo":""}]

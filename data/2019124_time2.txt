@@ -1,0 +1,1 @@
+[{"menu":"소세지비빔밥#","allergyInfo":""},{"menu":"우동맛장국#","allergyInfo":""},{"menu":"대만식지파이(허니버터맛)#","allergyInfo":""},{"menu":"계란후라이","allergyInfo":""},{"menu":"배추김치","allergyInfo":""},{"menu":"귤","allergyInfo":""}]

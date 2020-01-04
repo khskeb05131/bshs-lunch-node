@@ -1,0 +1,1 @@
+[{"menu":"발아현미밥(고)","allergyInfo":""},{"menu":"토마토카레소스#","allergyInfo":""},{"menu":"바삭징거후라이드#","allergyInfo":""},{"menu":"매콤실곤약무침#","allergyInfo":""},{"menu":"깍두기","allergyInfo":""}]

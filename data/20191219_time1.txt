@@ -1,0 +1,1 @@
+[{"menu":"혼합곡밥(조)","allergyInfo":""},{"menu":"부추계란국","allergyInfo":""},{"menu":"떡잡채","allergyInfo":""},{"menu":"동그랑땡조림","allergyInfo":""},{"menu":"배추김치","allergyInfo":""},{"menu":"초코올드패션#","allergyInfo":""}]

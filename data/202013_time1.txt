@@ -1,0 +1,1 @@
+[{"menu":"오므라이스+소스","allergyInfo":""},{"menu":"가쓰오장국","allergyInfo":""},{"menu":"케이준샐러드","allergyInfo":""},{"menu":"배추김치","allergyInfo":""},{"menu":"부추잡채띠바오#","allergyInfo":""}]

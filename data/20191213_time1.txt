@@ -1,0 +1,1 @@
+[{"menu":"참치김치덮밥","allergyInfo":""},{"menu":"맑은콩나물국","allergyInfo":""},{"menu":"새우까스","allergyInfo":""},{"menu":"테이크얼라이브미니(스위티자몽)","allergyInfo":""},{"menu":"갈릭버터크로와상#","allergyInfo":""}]

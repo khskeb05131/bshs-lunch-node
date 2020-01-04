@@ -1,0 +1,1 @@
+[{"menu":"찹쌀밥","allergyInfo":""},{"menu":"황태미역국#","allergyInfo":""},{"menu":"오리그릴스테이크&양파채","allergyInfo":""},{"menu":"단호박사태찜","allergyInfo":""},{"menu":"웨지감자(고)","allergyInfo":""},{"menu":"시금치고추장무침","allergyInfo":""},{"menu":"김장김치#","allergyInfo":""}]

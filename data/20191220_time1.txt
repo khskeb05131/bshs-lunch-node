@@ -1,0 +1,1 @@
+[{"menu":"하와이안무스비","allergyInfo":""},{"menu":"샌드위치(감자)","allergyInfo":""},{"menu":"과일샐러드","allergyInfo":""},{"menu":"씨리얼+우유","allergyInfo":""}]

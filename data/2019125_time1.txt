@@ -1,0 +1,1 @@
+[{"menu":"들깨무채국","allergyInfo":""},{"menu":"닭살수제비볶음(고)","allergyInfo":""},{"menu":"우리팜햄구이#","allergyInfo":""},{"menu":"깍두기","allergyInfo":""},{"menu":"어묵바(매콤오징어바)-g","allergyInfo":""},{"menu":"혼합곡밥","allergyInfo":""}]

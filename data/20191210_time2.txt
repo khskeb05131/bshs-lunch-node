@@ -1,0 +1,1 @@
+[{"menu":"혼합곡밥","allergyInfo":""},{"menu":"탄탄멘#","allergyInfo":""},{"menu":"수제탕수육(고)","allergyInfo":""},{"menu":"토마토양파샐러드(고)","allergyInfo":""},{"menu":"매콤콩나물무침","allergyInfo":""},{"menu":"배추김치","allergyInfo":""}]

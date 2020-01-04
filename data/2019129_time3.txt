@@ -1,0 +1,1 @@
+[{"menu":"스팸마요덮밥#","allergyInfo":""},{"menu":"가쓰오유부장국#","allergyInfo":""},{"menu":"감자양파볶음","allergyInfo":""},{"menu":"소떡소떡(고)","allergyInfo":""},{"menu":"배추김치","allergyInfo":""}]

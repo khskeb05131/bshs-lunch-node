@@ -1,0 +1,1 @@
+[{"menu":"강황쌀밥","allergyInfo":""},{"menu":"등뼈감자탕","allergyInfo":""},{"menu":"삼치데리야끼튀김(순살)#","allergyInfo":""},{"menu":"오리엔탈우동샐러드#","allergyInfo":""},{"menu":"숙주맛살무침","allergyInfo":""},{"menu":"배추김치","allergyInfo":""}]

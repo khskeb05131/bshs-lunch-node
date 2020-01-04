@@ -1,0 +1,1 @@
+[{"menu":"햄고추장볶음밥#","allergyInfo":""},{"menu":"꼬치어묵국(고)","allergyInfo":""},{"menu":"알리오올리오#","allergyInfo":""},{"menu":"고구마버터구이(고)","allergyInfo":""},{"menu":"오이피클","allergyInfo":""}]

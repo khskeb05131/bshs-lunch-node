@@ -1,0 +1,1 @@
+[{"menu":"날치알밥#","allergyInfo":""},{"menu":"배추김치","allergyInfo":""},{"menu":"쥬시쿨(파인애플맛)","allergyInfo":""},{"menu":"과일요거트샐러드#","allergyInfo":""},{"menu":"자메이카반각구이#","allergyInfo":""},{"menu":"해물라면#","allergyInfo":""}]

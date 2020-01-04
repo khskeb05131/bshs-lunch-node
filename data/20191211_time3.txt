@@ -1,0 +1,1 @@
+[{"menu":"혼합곡밥","allergyInfo":""},{"menu":"닭곰탕","allergyInfo":""},{"menu":"생선까스&타르타르소스","allergyInfo":""},{"menu":"두부오리엔탈샐러드#","allergyInfo":""},{"menu":"명엽채무침","allergyInfo":""},{"menu":"배추김치","allergyInfo":""}]

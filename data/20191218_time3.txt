@@ -1,0 +1,1 @@
+[{"menu":"수수밥","allergyInfo":""},{"menu":"들깨시락국","allergyInfo":""},{"menu":"돈육버섯불고기(고)","allergyInfo":""},{"menu":"콘샐러드","allergyInfo":""},{"menu":"브로콜리초회","allergyInfo":""},{"menu":"배추김치","allergyInfo":""}]

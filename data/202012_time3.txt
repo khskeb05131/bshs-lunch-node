@@ -1,0 +1,1 @@
+[{"menu":"귀리밥","allergyInfo":""},{"menu":"닭개장","allergyInfo":""},{"menu":"비비고한섬만두(고)","allergyInfo":""},{"menu":"멸치꽈리볶음","allergyInfo":""},{"menu":"떡갈비데리야끼조림#","allergyInfo":""},{"menu":"배추김치","allergyInfo":""},{"menu":"계란말이(고)","allergyInfo":""}]

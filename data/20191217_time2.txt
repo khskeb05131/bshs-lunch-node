@@ -1,0 +1,1 @@
+[{"menu":"기장밥","allergyInfo":""},{"menu":"부대찌개","allergyInfo":""},{"menu":"오삼볶음","allergyInfo":""},{"menu":"코다리강정","allergyInfo":""},{"menu":"두부야채무침#","allergyInfo":""},{"menu":"백김치","allergyInfo":""}]

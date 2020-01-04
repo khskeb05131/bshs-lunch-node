@@ -1,0 +1,1 @@
+[{"menu":"스크램블볶음밥(고)","allergyInfo":""},{"menu":"가쓰오유부장국#","allergyInfo":""},{"menu":"미트볼떡조림","allergyInfo":""},{"menu":"꽈리고추어묵조림","allergyInfo":""},{"menu":"배추김치","allergyInfo":""},{"menu":"베리베리퐁당!딸기맛","allergyInfo":""}]

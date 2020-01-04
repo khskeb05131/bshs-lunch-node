@@ -1,0 +1,1 @@
+[{"menu":"강황쌀밥","allergyInfo":""},{"menu":"돼지만난오리불고기#","allergyInfo":""},{"menu":"김말이치즈떡강정(고)","allergyInfo":""},{"menu":"상추오리엔탈무침#","allergyInfo":""},{"menu":"배추김치","allergyInfo":""},{"menu":"김치콩나물국","allergyInfo":""}]

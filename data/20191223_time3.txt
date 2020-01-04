@@ -1,0 +1,1 @@
+[{"menu":"백미밥","allergyInfo":""},{"menu":"배추된장국","allergyInfo":""},{"menu":"크리미어니언치킨#","allergyInfo":""},{"menu":"메추리알비엔나조림","allergyInfo":""},{"menu":"부추나물무침","allergyInfo":""},{"menu":"배추김치","allergyInfo":""}]

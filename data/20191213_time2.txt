@@ -1,0 +1,1 @@
+[{"menu":"흑미밥","allergyInfo":""},{"menu":"돈갈비떡찜(고)","allergyInfo":""},{"menu":"양배추쌈&쌈장","allergyInfo":""},{"menu":"꽁치김치조림(고)","allergyInfo":""},{"menu":"석박지","allergyInfo":""},{"menu":"콩가루시락국#","allergyInfo":""}]

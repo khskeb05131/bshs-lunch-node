@@ -1,0 +1,1 @@
+[{"menu":"백미밥","allergyInfo":""},{"menu":"카레소스","allergyInfo":""},{"menu":"오곡치킨너겟(고)","allergyInfo":""},{"menu":"수제소시지볶음","allergyInfo":""},{"menu":"오이소박이","allergyInfo":""},{"menu":"배추김치","allergyInfo":""}]

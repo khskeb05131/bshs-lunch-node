@@ -1,0 +1,1 @@
+[{"menu":"팥밥","allergyInfo":""},{"menu":"얼큰수제비국#","allergyInfo":""},{"menu":"붐바야치킨#","allergyInfo":""},{"menu":"소세지야채볶음#","allergyInfo":""},{"menu":"미역줄기볶음","allergyInfo":""},{"menu":"백색무피클","allergyInfo":""},{"menu":"배추김치","allergyInfo":""}]

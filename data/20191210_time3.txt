@@ -1,0 +1,1 @@
+[{"menu":"허브&스파이스직화커리치밥#","allergyInfo":""},{"menu":"유부장국","allergyInfo":""},{"menu":"팝만두강정#","allergyInfo":""},{"menu":"단무지무침","allergyInfo":""},{"menu":"모닝빵/딸기쨈#","allergyInfo":""},{"menu":"배추김치","allergyInfo":""}]

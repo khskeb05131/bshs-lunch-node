@@ -1,0 +1,1 @@
+[{"menu":"통밀밥","allergyInfo":""},{"menu":"쇠고기숙주국","allergyInfo":""},{"menu":"깐쇼새우&떡강정#","allergyInfo":""},{"menu":"표고고기완자(고)","allergyInfo":""},{"menu":"도라지오이무침","allergyInfo":""},{"menu":"배추김치","allergyInfo":""}]

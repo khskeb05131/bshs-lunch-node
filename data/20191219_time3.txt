@@ -1,0 +1,1 @@
+[{"menu":"차조밥","allergyInfo":""},{"menu":"옥수수스프","allergyInfo":""},{"menu":"우리쌀통살치킨까스#","allergyInfo":""},{"menu":"마파두부(고)","allergyInfo":""},{"menu":"양상추샐러드/요거트드레싱","allergyInfo":""},{"menu":"오이피클","allergyInfo":""}]

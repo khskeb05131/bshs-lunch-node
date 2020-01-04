@@ -1,0 +1,1 @@
+[{"menu":"닭야채볶음밥(고)","allergyInfo":""},{"menu":"건새우무국","allergyInfo":""},{"menu":"모닝빵/감자게살샐러드(고)","allergyInfo":""},{"menu":"딸기우유","allergyInfo":""},{"menu":"깍두기","allergyInfo":""}]

@@ -1,0 +1,1 @@
+[{"menu":"옥수수밥","allergyInfo":""},{"menu":"시래기장어탕#","allergyInfo":""},{"menu":"김치를찜햇닭#","allergyInfo":""},{"menu":"애호박느타리볶음(고)","allergyInfo":""},{"menu":"고구마가래떡맛탕","allergyInfo":""},{"menu":"석박지","allergyInfo":""}]

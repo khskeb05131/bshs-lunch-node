@@ -117,6 +117,14 @@ app.get('/dev', function (req, res) {
   res.send("현재 서버시간은 " + moment().format('YYYY-MM-DD HH:mm:ss'));
 });
 
+//image
+app.get('/image', function (req, res) {
+  try { var image = fs.readFileSync('./res/' + 'image.html','utf-8'); } catch (err) { var tomnut3 = topening + nothing + closing; }
+
+  res.send(image);
+});
+app.use(express.static('res'));
+
 const sch = schedule.scheduleJob('2 0 * * *',function(){
  process.exit()
 });

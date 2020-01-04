@@ -1,0 +1,1 @@
+[{"menu":"보리밥","allergyInfo":""},{"menu":"차가버섯백숙#","allergyInfo":""},{"menu":"가자미구이","allergyInfo":""},{"menu":"숙주미나리나물","allergyInfo":""},{"menu":"건파래자반#","allergyInfo":""},{"menu":"배추김치","allergyInfo":""}]

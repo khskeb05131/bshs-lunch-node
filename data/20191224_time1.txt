@@ -1,0 +1,1 @@
+[{"menu":"혼합곡밥(조)","allergyInfo":""},{"menu":"왕만두국","allergyInfo":""},{"menu":"스팸구이","allergyInfo":""},{"menu":"감자조림","allergyInfo":""},{"menu":"단배추된장나물","allergyInfo":""},{"menu":"프렌치토스트#","allergyInfo":""}]

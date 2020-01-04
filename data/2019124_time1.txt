@@ -1,0 +1,1 @@
+[{"menu":"혼합곡밥(조)","allergyInfo":""},{"menu":"감자양파국#","allergyInfo":""},{"menu":"오리훈제야채볶음#","allergyInfo":""},{"menu":"소세지떡조림#","allergyInfo":""},{"menu":"양상추샐러드/키위소스","allergyInfo":""},{"menu":"배추김치","allergyInfo":""},{"menu":"흑미쌀찐빵#","allergyInfo":""}]

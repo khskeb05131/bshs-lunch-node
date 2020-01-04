@@ -1,0 +1,1 @@
+[{"menu":"보리밥","allergyInfo":""},{"menu":"애호박된장찌개","allergyInfo":""},{"menu":"콩나물불고기","allergyInfo":""},{"menu":"오징어부추전","allergyInfo":""},{"menu":"오이양파생채","allergyInfo":""},{"menu":"배추김치","allergyInfo":""}]
