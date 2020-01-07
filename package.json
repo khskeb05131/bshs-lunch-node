@@ -53,6 +53,10 @@
     "url": "https://github.com/saxman6989/k-lunch/issues"
   },
   "dependencies": {
+    "date-utils": "*",
+    "node-schedule": "*",
+    "express": "*",
+    "path": "*",
     "async": "^3.1.0",
     "cheerio": "^0.20.0",
     "request": "^2.88.0"
